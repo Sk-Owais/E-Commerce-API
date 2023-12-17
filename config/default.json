@@ -1,0 +1,11 @@
+{
+    "port": 3003,
+    "mysql": {
+        "database": "api",
+        "username": "root",
+        "password": "root",
+        "host": "localhost",
+        "dialect": "mysql",
+        "port": 3306
+    }
+}
